@@ -8,3 +8,4 @@ systemctl start jenkins
 
 j,hkjb,kjbkjn.,mn,n.kjn.kn.,m
 this is script to run jenkins in automatedway
+adding second script
