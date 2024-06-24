@@ -6,3 +6,4 @@ yum install jenkins -y
 systemctl start jenkins
 mqbdkjdbq.fdbke
 qwjdbqekljbenclkenlckek
+hey tgis auto source trigger
