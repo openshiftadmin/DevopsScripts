@@ -4,9 +4,3 @@ sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/
 sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io-2023.key
 yum install jenkins -y
 systemctl start jenkins
-
-
-j,hkjb,kjbkjn.,mn,n.kjn.kn.,m
-this is script to run jenkins in automatedway
-adding second script
-adding final line
